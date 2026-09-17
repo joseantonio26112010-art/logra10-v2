@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Logra10</string>
+    <string name="title_activity_main">Logra10</string>
+    <string name="package_name">com.logra10.app</string>
+    <string name="custom_url_scheme">com.logra10.app</string>
+</resources>
