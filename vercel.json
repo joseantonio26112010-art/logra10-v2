@@ -1,6 +1,0 @@
-cat > vercel.json <<'EOF'
-{
-  "buildCommand": "bun run build",
-  "outputDirectory": ".output/public"
-}
-EOF
