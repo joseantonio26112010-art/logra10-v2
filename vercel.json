@@ -1,6 +1,6 @@
+cat > vercel.json <<'EOF'
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "bun run build",
-  "installCommand": "bun install --frozen-lockfile",
   "outputDirectory": ".output/public"
 }
+EOF
